@@ -3,9 +3,7 @@
 Use with cordova admob plugins such as [cordova-plugin-admob](https://github.com/floatinghotpot/cordova-plugin-admob) and [cordova-plugin-admob-free](https://github.com/ratson/cordova-plugin-admob-free)
 
 In tests, do not use
-
 In tests, do not use
-
 In tests, do not use
 
 
