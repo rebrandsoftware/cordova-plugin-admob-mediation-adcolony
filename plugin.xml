@@ -34,18 +34,24 @@
         <source-file src="libAdapterSDKAdColony.a" framework="true" />
 
 		<framework src="src/ios/AdColony.framework" custom="true"/>
-		<framework src="libz.1.2.5.tbd" />		
-		<framework src="AdSupport.framework" weak="true" />
+		<framework src="libz.1.2.5.dylib" />		
 		<framework src="AudioToolbox.framework" weak="true" />
-		<framework src="AVFoundation.framework" />
+		<framework src="AdSupport.framework" weak="true" />
+		<framework src="AVFoundation.framework"/>
+		<framework src="CFNetwork.framework"/>
+		<framework src="CoreGraphics.framework" />
+		<framework src="CoreMedia.framework" />
 		<framework src="CoreTelephony.framework" />
 		<framework src="EventKit.framework" />
-		<framework src="JavaScriptCore.framework" />
+		<framework src="EventKitUI.framework"/>
+		<framework src="Foundation.framework" />
+		<framework src="MediaPlayer.framework" />
 		<framework src="MessageUI.framework" />
-		<framework src="Social.framework" weak="true" />
-		<framework src="StoreKit.framework" />
+		<framework src="QuartzCore.framework" />
+		<framework src="Social.framework" weak="true"/>
+		<framework src="StoreKit.framework"/>
 		<framework src="SystemConfiguration.framework" />
-		<framework src="WatchConnectivity.framework" />
+		<framework src="UIKit.framework" />
 		<framework src="WebKit.framework" />
     </platform>
 
