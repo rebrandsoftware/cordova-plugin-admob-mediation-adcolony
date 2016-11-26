@@ -19,9 +19,8 @@
     "cordova-ios", 
     "cordova", 
     "plugin", 
-    "ad",
 	"admob",
-	"facebook",
+	"adcolony",
 	"mediation"
   ],
   "author": {
