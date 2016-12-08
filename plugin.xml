@@ -34,7 +34,7 @@
         <source-file src="libAdapterSDKAdColony.a" framework="true" />
 
 		<framework src="src/ios/AdColony.framework" custom="true"/>
-		<framework src="libz.1.2.5.dylib" />		
+		<framework src="libz.1.2.5.tbd" />		
 		<framework src="AudioToolbox.framework" weak="true" />
 		<framework src="AdSupport.framework" weak="true" />
 		<framework src="AVFoundation.framework"/>
