@@ -2,19 +2,16 @@
 
 Use with cordova admob plugins such as [cordova-plugin-admob](https://github.com/floatinghotpot/cordova-plugin-admob) and [cordova-plugin-admob-free](https://github.com/ratson/cordova-plugin-admob-free)
 
-In tests, do not use
-
-In tests, do not use
-
-In tests, do not use
-
 
 ## Installation ##
 
 In your application project directory:
 
 ```bash
-cordova plugin add cordova-plugin-admob-mediation-adcolony
+
+cordova plugin add https://github.com/warcry2000/cordova-plugin-admob-mediation-adcolony.git --save
+
+(cordova plugin add cordova-plugin-admob-mediation-adcolony)
 ```
 
 ## Usage ##
