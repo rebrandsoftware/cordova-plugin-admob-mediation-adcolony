@@ -1,6 +1,6 @@
 [AdMob Mediation Adapter](https://firebase.google.com/docs/admob/android/mediation-networks) for [AdColony]
 
-Use with cordova admob plugins such as [cordova-plugin-admob](https://github.com/floatinghotpot/cordova-plugin-admob) and [cordova-plugin-admob-free](https://github.com/ratson/cordova-plugin-admob-free)
+Use with cordova admob plugins such as [cordova-plugin-admob-free](https://github.com/ratson/cordova-plugin-admob-free)
 
 
 ## Installation ##
@@ -22,9 +22,12 @@ Keep using the API of your favorite Admob cordova plugin!
 
 ## Changelog ##
 
-#### Version 1.0.0: 
-- FAN Android SDK 4.+ 
-- FAN iOS SDK 4.15.1
+#### Version 0.0.2: 
+- AdColony-iOS-SDK v2.6.3 
+
+#### Version 0.0.1: 
+- AdColony-iOS-SDK v2.5.3 
+
 
 ## Licence ##
 
